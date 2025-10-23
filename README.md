@@ -6,13 +6,13 @@
 
 <div align="center" style="font-family: Arial, sans-serif;">
   <p>
-    <a href="#-introduction" style="text-decoration: none; font-weight: bold;">🌟Introduction</a> •
-     <a href="#-getting-started" style="text-decoration: none; font-weight: bold;">⚡️Getting Started</a>
+    <a href="#introduction" style="text-decoration: none; font-weight: bold;">🌟Introduction</a> •
+     <a href="#getting-started" style="text-decoration: none; font-weight: bold;">⚡Getting Started</a>
   </p>
   <p>
-    <a href="#-citation" style="text-decoration: none; font-weight: bold;">🎈 Citation</a> •
-    <a href="#-acknowledgement" style="text-decoration: none; font-weight: bold;">🌻 Acknowledgement</a> •
-    <a href="#-contact" style="text-decoration: none; font-weight: bold;">📬 Contact</a>
+    <a href="#citation" style="text-decoration: none; font-weight: bold;">🎈 Citation</a> •
+    <a href="#acknowledgement" style="text-decoration: none; font-weight: bold;">🌻 Acknowledgement</a> •
+    <a href="#contact" style="text-decoration: none; font-weight: bold;">📬 Contact</a>
   </p>
 </div>
 
@@ -30,7 +30,7 @@ In **stage II**, it introduces indirect rewards based on actor refinement to **i
 
 ![image-20251022170732444](./assets/Critique-RL-main.png)
 
-## ⚡️Getting Started
+## ⚡Getting Started
 
 ### Set up
 
