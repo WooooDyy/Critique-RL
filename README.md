@@ -1,18 +1,18 @@
 # Critique-RL: Training Language Models for Critiquing through Two-Stage Reinforcement Learning
 
 <p align="center">
-  📃 <a href="https://arxiv.org/abs/2509.08755" target="_blank">Paper</a > • 🌐 <a href="https://agentgym-rl.github.io/" target="_blank">GitHub</a >
+  📃 <a href="https://arxiv.org/abs/xxxx" target="_blank">Paper</a > • 🌐 <a href="https://github.com/WooooDyy/Critique-RL" target="_blank">GitHub</a >
 </p >
 
 <div align="center" style="font-family: Arial, sans-serif;">
   <p>
-    <a href="#🌟introduction" style="text-decoration: none; font-weight: bold;">🌟Introduction</a> •
-     <a href="#⚡️getting-started" style="text-decoration: none; font-weight: bold;">⚡️Getting Started</a>
+    <a href="#-introduction" style="text-decoration: none; font-weight: bold;">🌟Introduction</a> •
+     <a href="#-getting-started" style="text-decoration: none; font-weight: bold;">⚡️Getting Started</a>
   </p>
   <p>
-    <a href="#🎈citation" style="text-decoration: none; font-weight: bold;">🎈 Citation</a> •
-    <a href="#🌻acknowledgement" style="text-decoration: none; font-weight: bold;">🌻 Acknowledgement</a> •
-    <a href="#📬Contact" style="text-decoration: none; font-weight: bold;">📬 Contact</a>
+    <a href="#-citation" style="text-decoration: none; font-weight: bold;">🎈 Citation</a> •
+    <a href="#-acknowledgement" style="text-decoration: none; font-weight: bold;">🌻 Acknowledgement</a> •
+    <a href="#-contact" style="text-decoration: none; font-weight: bold;">📬 Contact</a>
   </p>
 </div>
 
@@ -122,14 +122,14 @@ bash evaluate.sh
 If you find this work helpful, please cite us:
 
 ```bibtex
-TODO
+Comming Soon
 ```
 
 # 🌻Acknowledgement
 
 Critique-RL is developed based on [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF). We utilize [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) for SFT training, [vLLM]((https://github.com/vllm-project/vllm)) for inference. The reasoning traces and refinement responses are constructed following [Guided Self-Improvement](https://github.com/Yiwen-Ding/Guided-Self-Improvement) and [MathCritique](https://github.com/WooooDyy/MathCritique). Thanks for their great contribution!
 
-# 📬 Contact
+# 📬Contact
 
-Zhiheng Xi: [zhxi22@m.fudan.edu.cn](https://github.com/WooooDyy/MathCritique/blob/main/zhxi22@m.fudan.edu.cn)
+Zhiheng Xi: zhxi22@m.fudan.edu.cn
 
