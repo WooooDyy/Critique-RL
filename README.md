@@ -1,7 +1,7 @@
 # Critique-RL: Training Language Models for Critiquing through Two-Stage Reinforcement Learning
 
 <p align="center">
-  📃 <a href="https://arxiv.org/abs/xxxx" target="_blank">Paper</a > • 🌐 <a href="https://github.com/WooooDyy/Critique-RL" target="_blank">GitHub</a >
+  📃 <a href="https://arxiv.org/abs/2510.24320" target="_blank">Paper</a > • 🌐 <a href="https://github.com/WooooDyy/Critique-RL" target="_blank">GitHub</a >
 </p >
 
 <div align="center" style="font-family: Arial, sans-serif;">
@@ -122,7 +122,15 @@ bash evaluate.sh
 If you find this work helpful, please cite us:
 
 ```bibtex
-Comming Soon
+@misc{xi2025critiquerltraininglanguagemodels,
+      title={Critique-RL: Training Language Models for Critiquing through Two-Stage Reinforcement Learning}, 
+      author={Zhiheng Xi and Jixuan Huang and Xin Guo and Boyang Hong and Dingwen Yang and Xiaoran Fan and Shuo Li and Zehui Chen and Junjie Ye and Siyu Yuan and Zhengyin Du and Xuesong Yao and Yufei Xu and Jiecao Chen and Rui Zheng and Tao Gui and Qi Zhang and Xuanjing Huang},
+      year={2025},
+      eprint={2510.24320},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.24320}, 
+}
 ```
 
 # 🌻Acknowledgement
